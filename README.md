@@ -1,5 +1,31 @@
-- 👋 Hi, I’m @LovaVikasso
-- 👀 I’m interested in Front End
-- 🌱 I’m currently learning JavaScript, TypeScript, React, RTK, React Native
-- 💞️ I’m not looking to collaborate right now >.<
-- 📫 How to reach me via email victoria.pavlova7@gmail.com
+# Hi there, I'm Victoria 👋
+
+### About Me
+I'm a frontend developer with a passion for creating beautiful and intuitive user interfaces.
+
+### My Tech Stack
+- HTML5
+- CSS3 (Sass/SCSS)
+- JavaScript (ES6+)
+- Typescript
+- React.js
+- Redux
+- RTK Query
+- Next.js
+- React Native
+
+### My Projects
+- 🚀 [Todolist](https://github.com/LovaVikasso/Todolist): Classic but a little bit complex Todolist - React, Typescript, Redux, axios
+- 🌐 [FlashCards](https://github.com/LovaVikasso/Todolist): Team project with Typescript, RTK Query, polimorph components, Radix UI, SCSS, React Hook Form and zod
+- 🕸 [Social network](https://github.com/LovaVikasso/samuray-way-main): A little bit outdated, social network
+- 📓 [BulletJournal](https://github.com/LovaVikasso/bulletJournal):Private for now
+
+### Connect with Me
+- 📧 Email: victoriapavlovawork@gmail.com
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/lovavikasso/)
+
+### Invite Me to Your Project!
+I'm always open to new projects and collaborations. Let's build something awesome together!
+
+<!-- Closing Section -->
+**Thanks for visiting my profile! 😊**
