@@ -20,6 +20,9 @@ I'm a frontend developer with a passion for creating beautiful and intuitive use
 - 🕸 [Social network](https://github.com/LovaVikasso/samuray-way-main): A little bit outdated, social network
 - 📓 [BulletJournal](https://github.com/LovaVikasso/bulletJournal):Private for now
 
+### My Portfolio
+- ✨ [Portfolio](https://portfolio-lovavikasso.vercel.app/)
+
 ### Connect with Me
 - 📧 Email: victoriapavlovawork@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/lovavikasso/)
