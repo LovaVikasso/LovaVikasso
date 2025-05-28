@@ -20,6 +20,7 @@ I'm a frontend developer with a passion for creating beautiful and intuitive use
 - 🕸 [Social network](https://github.com/LovaVikasso/samuray-way-main): A little bit outdated, social network
 - 📸 [Inctagram](https://inctagram-next-app-dir-git-develop-fightersforjustice.vercel.app/): Team project Isnagram clone - Next.js, RTK Query: in propgress
 - 📓 [BulletJournal](https://github.com/LovaVikasso/bulletJournal): Private for now
+- 🌤️ [Weather app](https://github.com/LovaVikasso/Weather): Zustand practise
 
 ### My Portfolio
 - ✨ [Portfolio](https://portfolio-lovavikasso.vercel.app/)
