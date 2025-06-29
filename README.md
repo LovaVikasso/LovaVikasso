@@ -21,6 +21,7 @@ I'm a frontend developer with a passion for creating beautiful and intuitive use
 - 📸 [Inctagram](https://inctagram-next-app-dir-git-develop-fightersforjustice.vercel.app/): Team project Isnagram clone - Next.js, RTK Query: in propgress
 - 📓 [BulletJournal](https://github.com/LovaVikasso/bulletJournal): Private for now
 - 🌤️ [Weather app](https://github.com/LovaVikasso/Weather): Zustand practise
+- 🚘 [Cards](https://github.com/LovaVikasso/auto-cards): Simple cards
 
 ### My Portfolio
 - ✨ [Portfolio](https://portfolio-lovavikasso.vercel.app/)
