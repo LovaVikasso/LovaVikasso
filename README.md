@@ -23,8 +23,6 @@ I'm a frontend developer with a passion for creating beautiful and intuitive use
 - 🌤️ [Weather app](https://github.com/LovaVikasso/Weather): Zustand practise
 - 🚘 [Cards](https://github.com/LovaVikasso/auto-cards): Simple cards
 
-### My Portfolio
-- ✨ [Portfolio](https://portfolio-lovavikasso.vercel.app/)
 
 ### Connect with Me
 - 📧 Email: victoriapavlovawork@gmail.com
