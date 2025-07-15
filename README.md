@@ -4,15 +4,12 @@
 I'm a frontend developer with a passion for creating beautiful and intuitive user interfaces.
 
 ### My Tech Stack
-- HTML5
-- CSS3 (Sass/SCSS)
 - JavaScript (ES6+)
 - Typescript
-- React.js
-- Redux
+- React
+- Zustand
 - RTK Query
 - Next.js
-- React Native
 
 ### My Projects
 - 🚀 [Todolist](https://github.com/LovaVikasso/Todolist): Classic but a little bit complex Todolist - React, Typescript, Redux, axios
