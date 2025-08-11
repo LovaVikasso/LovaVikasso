@@ -14,7 +14,7 @@ I'm a frontend developer with a passion for creating beautiful and intuitive use
 ### My Projects
 - 🌐 [FlashCards](https://github.com/LovaVikasso/flashcards): Team project with Typescript, RTK Query, polimorph components, Radix UI, SCSS, React Hook Form and zod
 - 🕸 [Social network](https://github.com/LovaVikasso/samuray-way-main): A little bit outdated, social network
-- 📸 [Inctagram](https://inctagram-next-app-dir-git-develop-fightersforjustice.vercel.app/): Team project Isnagram clone - Next.js, RTK Query: in propgress
+- 📸 [Inctagram](https://inctagram-next-app-dir-git-develop-fightersforjustice.vercel.app/): Team project Instagram clone - Next.js, RTK Query
 - 🌤️ [Weather app](https://github.com/LovaVikasso/Weather): Zustand practise
 - 🚘 [Cards](https://github.com/LovaVikasso/auto-cards): Simple cards
 - 🚀 [Todolist](https://github.com/LovaVikasso/Todolist): Classic but a little bit complex Todolist - React, Typescript, Redux, axios
